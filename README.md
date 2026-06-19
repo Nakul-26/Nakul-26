@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Nakul 👋
 
-<!--
-**Nakul-26/Nakul-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at BMS Institute of Technology and Management.
 
-Here are some ideas to get you started:
+I enjoy building software systems, solving algorithmic problems, and creating products that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Languages
+C++, Java, JavaScript, Python, Go
+
+### Frontend
+React, HTML, CSS
+
+### Backend
+Node.js, Express
+
+### Databases
+MongoDB, MySQL
+
+### Tools
+Git, Docker, AWS
+
+## Featured Projects
+
+### College ERP System
+A modular ERP platform for educational institutions.
+
+### Coding Assessment Platform
+Online coding assessment platform with automated evaluation.
+
+### Automated Timetable Generator
+Automated academic scheduling system.
+
+## DSA
+
+160+ LeetCode problems solved.
+
+## Connect
+
+LinkedIn
+Portfolio
+Email
